@@ -1,6 +1,13 @@
 {
-"version": "1.0.0",
-"name": "OSD Shops",
-"download": "https://ton-lien-tebex.com",
-"changelog": "Première version publique de OSD Core."
+  "version": "1.0.0",
+  "name": "OSD Shops",
+  "download": "https://osd-studio.com",
+  "changelog": {
+    "fr": "OSD Shops.",
+    "en": "OSD Shops.",
+    "nl": "OSD Shops.",
+    "pt": "OSD Shops.",
+    "th": "OSD Shops.,
+    "es": "OSD Shops."
+  }
 }
