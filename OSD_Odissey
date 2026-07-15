@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "OSD Odyssey",
+  "download": "https://osd-studio.com",
+  "changelog": {
+    "fr": "OSD Odyssey.",
+    "en": "OSD Odyssey.",
+    "nl": "OSD Odyssey.",
+    "pt": "OSD Odyssey.",
+    "th": "OSD Odyssey.",
+    "es": "OSD Odyssey."
+  }
+}
