@@ -1,6 +1,13 @@
 {
-"version": "2.0.0",
-"name": "OSD Core",
-"download": "On u'r portal",
-"changelog": "Aquaplaning prevention."
+  "version": "1.0.0",
+  "name": "OSD Core",
+  "download": "https://osd-studio.com",
+  "changelog": {
+    "fr": "OSD Core.",
+    "en": "OSD Core.",
+    "nl": "OSD Core.",
+    "pt": "OSD Core.",
+    "th": "OSD Core.",
+    "es": "OSD Core."
+  }
 }
