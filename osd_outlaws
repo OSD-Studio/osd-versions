@@ -1,1 +1,13 @@
-
+{
+  "version": "1.0.0",
+  "name": "OSD Outlaws",
+  "download": "https://osd-studio.com",
+  "changelog": {
+    "fr": "OSD Outlaws.",
+    "en": "OSD Outlaws.",
+    "nl": "OSD Outlaws.",
+    "pt": "OSD Outlaws.",
+    "th": "OSD Outlaws.",
+    "es": "OSD Outlaws."
+  }
+}
